@@ -3,7 +3,7 @@ It offers a simple API, is written in java for the Android Platform.
 
 It properly requires to run on Android 2.2+ as is uses HttpURLConnection.
 
-It's to be incluced as a Android library in eclipse.
+It's to be incluced as a Android library in eclipse but i'm not sure i got completely it right.
 
 ## Requirements
 
